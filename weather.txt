@@ -1,0 +1,10 @@
+BANGOR         12/10/14       2.5       W         2.5  C Paul Smith
+ORONO	       12/10/14       4.1       N         28.9 F Susan Spellman
+BANGOR         12/10/14       3.9       W         1.0  C Tom Houson
+CALAIS         12/10/14       2.9       N         34.5 F Mike Conway
+CALAIS         12/10/14       2.2       N         34.1 F Penny Thomas
+BANGOR         12/10/14       2.6       W         4.7  C Laurel Penn
+BANGOR         12/10/14       2.9       N         32.0 F Xang Xao
+PORTLAND       12/10/14       2.2       N         4.4  C Jared Washington
+PORTLAND       12/10/14       2.9       N         3.8  C Opal Tines
+ORONO	       12/10/14       3.6       N         29.7 F Kaitlin Wallis       

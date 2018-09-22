@@ -1,0 +1,40 @@
+Andrew Cramer
+COS225 Assg #2
+This program computes temperature statistics
+
+Town             Date       Wind Speed              Direction          Temp (F)           Temp (C)          Wind Chill 
+----------------------------------------------------------------------------------------------------------------------
+BANGOR         12/10/14         2.5                    W               36.50                2.50               1.56 
+ORONO          12/10/14         4.1                    N               28.90               -1.72              -7.06 
+BANGOR         12/10/14         3.9                    W               33.80                1.00              -3.50 
+CALAIS         12/10/14         2.9                    N               34.50                1.39              -0.70 
+CALAIS         12/10/14         2.2                    N               34.10                1.17               1.12 
+BANGOR         12/10/14         2.6                    W               40.46                4.70               3.57 
+BANGOR         12/10/14         2.9                    N               32.00                0.00              -2.18 
+PORTLAND       12/10/14         2.2                    N               39.92                4.40               4.36 
+PORTLAND       12/10/14         2.9                    N               38.84                3.80               1.87 
+ORONO          12/10/14         3.6                    N               29.70               -1.28              -5.39 
+
+All readings taken for month: December
+Number of readings: 10
+Average wind speed: 2.98 
+Average temperature (F): 34.87 
+Average temperature (C): 1.60 
+ 
+Historical Averages
+Month               Temp Average (F) 
+------------------------------------------
+January                  24.9 
+February                 32.7 
+March                    45.9 
+April                    52.0 
+May                      68.9 
+June                     73.5 
+July                     78.6 
+August                   77.5 
+September                68.4 
+October                  55.7 
+November                 45.7 
+December                 36.3 
+
+The difference this December from historical average is -1.43
